@@ -1,4 +1,4 @@
-**"Blog_Website"**
+# Blog_Website - SBlog
 
 Welcome to the "blog_website" project, where I'm revolutionizing the way bloggers and readers connect through an immersive online platform. Are you ready to experience a dynamic and interactive space that empowers you to create, publish, and explore captivating blog content? Our project is your gateway to a user-friendly and visually appealing website designed to redefine your blogging experience.
 
